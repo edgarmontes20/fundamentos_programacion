@@ -17,7 +17,7 @@ public class Calculadora {
     private double operacion2;
     
     /*
-    Construtor
+    Construtor, los insumos para poder instanciar, usar una clase
     */
     public Calculadora(double operacion1, double operacion2) {
         this.operacion1 = operacion1;
