@@ -1,1 +1,6 @@
-Mateo;Salazar;CC;20
+Edgar;Montes;cc;3146925
+Yamile;Zapata;cc;398047
+Manuela;Montes;rc;102215313
+Daniel;Flores;cc;556150531
+Juan;Perez;cc;56416165
+Pedro;Gomez;cc;113131313
